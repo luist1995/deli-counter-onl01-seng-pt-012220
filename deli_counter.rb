@@ -1,7 +1,7 @@
 require 'pry'
 
 def line(katz_deli)
-  binding.pry
+  #binding.pry
   if katz_deli.empty?
     puts "The line is currently empty."
   else 
